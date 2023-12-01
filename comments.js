@@ -66,6 +66,3 @@ function getMaxId() {
     }
     return maxId;
 }
-// create function to get max id
-// create function to get data from database
-function getData()
